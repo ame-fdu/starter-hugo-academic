@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Dr. Liao
+title: Dr. LiJing
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Java???
+role: Professor of 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 孵蛋 University
-  url: https://www.baidu.com/
+- name: Fudan University
+  url: https://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
