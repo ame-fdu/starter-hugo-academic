@@ -11,7 +11,7 @@ copyright: '© {2021} ame_fdu' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
